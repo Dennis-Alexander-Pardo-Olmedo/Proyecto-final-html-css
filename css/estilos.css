@@ -228,3 +228,6 @@ a{
     justify-content: center;
     margin: 50px;
 }
+.footer__container{
+    border-bottom: #f8f9fa 1px solid;
+}
